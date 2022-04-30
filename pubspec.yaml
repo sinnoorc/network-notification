@@ -2,7 +2,7 @@ name: ots
 description: A package for showing loading indicators, notifications, dialogs, internet connectivity updates, Over the Screen easily.
 version: 1.0.0
 # author: Fayaz
-homepage: https://github.com/fayaz07/ots
+homepage: https://github.com/sinnoorc/network-notification
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
